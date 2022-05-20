@@ -39,6 +39,7 @@ main > div {
     height: 30px;
     border-radius: 50%;
     border: 3px solid black;
+    font-weight: bold;
 }
 svg {
     width: 60%;
